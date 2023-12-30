@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ll30n1d
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on big IT company 
 - 📫 How to reach me? by my IG link in bio
 
 <!---
