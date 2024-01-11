@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ll30n1d
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me? by my IG link in bio
+-  Hi, I’m Leonid
+-  I’m junior Frontend web Dev
+-  I'm currently learning JavaScript and React.js
+-  You can reach me by my IG link in bio
 
 <!---
 Ll30n1d/Ll30n1d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
