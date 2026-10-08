@@ -30,7 +30,7 @@
 ---
 
 ### 📁 Избранный проект
-📌 **[cybersecurity-portfolio](https://github.com/Ll30n1d/cybersecurity-portfolio)** — Единое портфолио с моими конфигурациями сетей Cisco, скриптами анализа трафика (Scapy) и дампами форензики Wireshark.
+📌 **[cybersecurity-portfolio_projects](https://github.com/Ll30n1d/cybersecurity-portfolio_projects)** — Единое портфолио с моими конфигурациями сетей Cisco, скриптами анализа трафика (Scapy) и дампами форензики Wireshark.
 
 ---
 
